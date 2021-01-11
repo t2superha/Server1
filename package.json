@@ -1,0 +1,19 @@
+{
+  "name": "server1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t2superha/Server1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t2superha/Server1/issues"
+  },
+  "homepage": "https://github.com/t2superha/Server1#readme"
+}
